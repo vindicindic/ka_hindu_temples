@@ -1,3 +1,5 @@
+#### || Shree Ganeshaya Namaha ||
+
 # Karnataka Hindu Temples under state control
 
 This repo contains a dataset of 327 temples in Karnataka that are under state control.
